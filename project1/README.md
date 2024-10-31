@@ -19,8 +19,6 @@
 
 4)利用文本索引搜索图书 <br>
 
-通过对应的功能测试，所有 test case 都 pass <br>
-
 ## bookstore目录结构
 ```
 bookstore
