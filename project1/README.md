@@ -17,7 +17,7 @@
 
 3)卖家用户接口，创建店铺、填加书籍信息及描述、增加库存、订单发货、收款<br>
 
-4）利用文本索引搜索图书 <br>
+4)利用文本索引搜索图书 <br>
 
 通过对应的功能测试，所有 test case 都 pass <br>
 
@@ -100,5 +100,6 @@ bash script/test.sh
 
 4.未实现界面，只通过代码测试体现功能与正确性
 
-5.覆盖率：<img width="416" alt="image" src="https://github.com/user-attachments/assets/f96569cf-f314-4144-9411-1ff837b2c4b0">
+5.覆盖率：
+<img width="416" alt="image" src="https://github.com/user-attachments/assets/f96569cf-f314-4144-9411-1ff837b2c4b0">
 
