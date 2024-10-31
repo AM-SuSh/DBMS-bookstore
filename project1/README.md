@@ -101,5 +101,9 @@ bash script/test.sh
 4.未实现界面，只通过代码测试体现功能与正确性
 
 5.覆盖率：
+
+
+
+
 <img width="416" alt="image" src="https://github.com/user-attachments/assets/f96569cf-f314-4144-9411-1ff837b2c4b0">
 
